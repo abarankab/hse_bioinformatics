@@ -1,0 +1,41 @@
+clustalw:
+
+ml
+90 100 36 96 96 100 76 44 88 64 52 76 88 100 24 88 68 96 80 54 58 98
+Average of 5 smallest values: 42
+Average value: 76
+Median value: 84.0
+
+nj
+99 100 87 70 58 98 100 91 43 61 39 99 87 99 98 69 64 100 29 100 91 57
+Average of 5 smallest values: 45.2
+Average value: 79.0
+Median value: 89.0
+
+upgma
+98 65 97 87 99 54 99 89 48 100 51 73 82 68 88 73 71 98 100 100 98 99
+Average of 5 smallest values: 57.2
+Average value: 83.5
+Median value: 88.5
+
+muscle:
+
+ml
+50 100 28 38 46 52 100 38 96 34 72 96 100 38 16 94 86 98 94 62 50 100
+Average of 5 smallest values: 30.8
+Average value: 67.6
+Median value: 67.0
+
+
+nj
+99 67 81 87 100 59 100 100 73 99 82 70 98 100 35 65 100 97 79 41 44 59
+Average of 5 smallest values: 47.6
+Average value: 78.9
+Median value: 81.5
+
+
+upgma
+98 68 97 88 97 62 99 89 47 100 59 69 79 53 89 38 34 97 100 99 76 76
+Average of 5 smallest values: 46.2
+Average value: 77.9
+Median value: 83.5
