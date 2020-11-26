@@ -1,25 +1,24 @@
 1
+Iraq — 2997
 China — 3037
-Mexico — 2772
-orf1ab polyprotein
-orf1a polyprotein
+orf1ab, orf1a
 
 2
-China — 14408
-Mexico — 14143
-orf1ab polyprotein
+Iraq — 10038
+China — 10078
+orf1ab, orf1a
 
 3
-China — 20268
-Mexico — 20003
-orf1ab polyprotein
+Iraq — 12278
+China — 12318
+orf1ab, orf1a
 
 4
-China — 23403
-Mexico — 23138
-surface glycoprotein
+Iraq — 18837
+China — 18877
+orf1ab
 
 5
-China — 28854
-Mexico — 28589
-nucleocapsid phosphoprotein
+Iraq — 23363
+China — 23403
+surface glycoprotein
