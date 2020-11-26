@@ -1,0 +1,25 @@
+1
+China — 3037
+Mexico — 2772
+orf1ab polyprotein
+orf1a polyprotein
+
+2
+China — 14408
+Mexico — 14143
+orf1ab polyprotein
+
+3
+China — 20268
+Mexico — 20003
+orf1ab polyprotein
+
+4
+China — 23403
+Mexico — 23138
+surface glycoprotein
+
+5
+China — 28854
+Mexico — 28589
+nucleocapsid phosphoprotein
